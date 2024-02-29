@@ -7,7 +7,7 @@ This amazing App UI is built on the amazing design of [Cuberto](https://dribbble
  
 
 ## Download App
-<a href="https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app/releases/download/1.0.1/Groceries.Shopping.apk"><img src="https://playerzon.com/asset/download.png" width="250"></img></a>
+<a href="https://drive.google.com/file/d/1Ob846OjX1MyXvH-1yRvMywalPwUv8Ykj/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="250"></img></a>
 
 ## Design
 <!-- original_design.gif -->
